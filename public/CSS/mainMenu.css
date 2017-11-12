@@ -1,0 +1,19 @@
+p{
+	font-size: 25px;
+	position: relative;
+	color: burlywood;
+	text-align: center;
+}
+
+#pressKey{
+	font-size: 35px;
+	color: white;
+	position: relative;
+	top: 100px;
+	animation: fadeIn 2s linear infinite alternate;
+}
+
+#menuItems{
+	cursor: pointer;
+}
+

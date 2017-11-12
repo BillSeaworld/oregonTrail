@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+
+h{
+    text-align: center;
+    position: relative;
+    color: white;
+    font-size: 35px;
+}
+
+p{
+    text-align: center;
+    position: relative;
+    color: burlywood;
+    font-size: 30px;
+}
+
+.inner{
+    margin-bottom: 0 auto;
+}
+
+#gameContainer{
+    text-align: center;
+    color: burlywood;
+}
+
+#menuOptions{
+    cursor: pointer;
+}
+
+
+
+
+
+

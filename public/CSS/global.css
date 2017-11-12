@@ -1,0 +1,55 @@
+s.bdyRes{
+    height: 720px;
+    width:1200px;
+    display: block;
+    margin: auto;
+    margin-top: 0 auto;
+}
+
+.background{
+	background-color: black;
+	background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+    -webkit-background-size: cover;
+    margin-right: 1000px;
+}
+
+.banner{
+    vertical-align: top;
+    position: relative;
+}
+
+.outter {
+	display: table;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+}
+
+.middle {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.inner {
+    text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+
+@keyframes fadeIn {
+	from { opacity: 0;}
+}
+
+#spcBttn{
+    font-size: 35px;
+	position: relative;
+    top: 50px;
+    text-align: center;	
+    color: white;    
+    animation: fadeIn 2s linear infinite alternate;
+    cursor: pointer;
+}
+

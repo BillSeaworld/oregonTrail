@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+
+#banner{
+    text-align: center;
+	display: block;
+	margin: 0 auto;
+}
+.plcTable{
+    text-align: center;
+    margin: 0 auto;
+    margin-left: 0 auto;
+    margin-right: 0px;
+}
+
+#myTable{
+    color: burlywood;
+    font-size: 25px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    margin-left: 825px;
+}
+
+#myBttn{
+    color: white;
+    text-align: center;
+    animation: fadeIn 2s linear infinite alternate;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+
+
+
+
